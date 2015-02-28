@@ -1,0 +1,12 @@
+0 * * * * /opt/mean/spyrals/update.sh
+5 * * * * /opt/mean/spyrals/update.sh
+10 * * * * /opt/mean/spyrals/update.sh
+15 * * * * /opt/mean/spyrals/update.sh
+20 * * * * /opt/mean/spyrals/update.sh
+25 * * * * /opt/mean/spyrals/update.sh
+30 * * * * /opt/mean/spyrals/update.sh
+35 * * * * /opt/mean/spyrals/update.sh
+40 * * * * /opt/mean/spyrals/update.sh
+45 * * * * /opt/mean/spyrals/update.sh
+50 * * * * /opt/mean/spyrals/update.sh
+55 * * * * /opt/mean/spyrals/update.sh
